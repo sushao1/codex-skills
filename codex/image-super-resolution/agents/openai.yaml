@@ -1,0 +1,4 @@
+interface:
+  display_name: "图片超分修复"
+  short_description: "保真放大电商图片并核对尺寸、版式与内容"
+  default_prompt: "请按原图顺序完成超分修复，保留版式与内容并输出核验记录。"

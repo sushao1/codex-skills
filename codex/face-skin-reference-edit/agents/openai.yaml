@@ -1,0 +1,4 @@
+interface:
+  display_name: "参考模特换脸、换肤色，保持原姿势和详情页版式"
+  short_description: "按参考模特换脸和肤色，保留姿势与原图版式"
+  default_prompt: "用 $face-skin-reference-edit 把目标图中的模特脸部和肤色改成参考图的人，保持姿势、文字和版式。"

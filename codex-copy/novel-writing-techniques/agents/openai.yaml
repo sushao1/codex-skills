@@ -1,0 +1,4 @@
+interface:
+  display_name: "小说创作技法库"
+  short_description: "基于技法库设计人物、智斗、规则谜题、群像与剧情，并校验因果和伏笔"
+  default_prompt: "使用 $小说创作技法库，结合我的设定和目标，创作或改进小说并检查人物动机、因果与伏笔。"

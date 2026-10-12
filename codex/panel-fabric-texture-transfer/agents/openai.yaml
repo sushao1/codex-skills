@@ -1,0 +1,7 @@
+interface:
+  display_name: "四区面板织物质感迁移"
+  short_description: "参考图1材质，仅替换图2四块面板的织物软垫质感"
+  default_prompt: "使用 $panel-fabric-texture-transfer，把图2四块面板改成图1的柔软织物与厚实软垫质感，并保留图2造型、灰色配色和版式。"
+
+policy:
+  allow_implicit_invocation: true
