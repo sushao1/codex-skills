@@ -1,0 +1,5 @@
+# 本地备份与临时文件
+*.bak-*
+*.backup
+*.tmp
+.DS_Store
